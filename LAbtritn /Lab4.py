@@ -11,6 +11,7 @@ print('Vi nahoditesi v komnatе Start -> Tut ocheni klassno i uiutno.')
 while komnata != sk[5] :
 
 
+
     if komnata == sk[0] :
         napr = input('Vvedite nazvanie napravlenia v kotorom hotite dvigatsea:')
         while napr not in napravlenia :
